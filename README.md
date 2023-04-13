@@ -5,8 +5,8 @@
 ---
 
 ## 1. 참가 인원
-- 오 인종 (dhdlswhd34)
-- **김 종민** <a href=https://github.com/EvoDmiK><img src='https://avatars.githubusercontent.com/u/93193661?v=4' width=25></img></a>
+- **오 인종** <a href='https://github.com/dhdlswhd34'><img src='https://avatars.githubusercontent.com/u/73582515?v=4'width=50></img></a>
+- **김 종민** <a href=https://github.com/EvoDmiK><img src='https://avatars.githubusercontent.com/u/93193661?v=4' width=50></img></a>
 
 ---
 
